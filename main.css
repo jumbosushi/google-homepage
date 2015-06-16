@@ -1,0 +1,132 @@
+*, .submit {
+    font-family: arial,sans-serif;
+}
+
+.header {
+    width: 1263px;
+    height: 30px;
+    font-size: 14px;
+}
+
+.h_inner {
+    position: absolute:
+    vertical-align: center;
+}
+
+.header ul li {
+    display: inline;
+    margin: 0;
+    padding: 0;
+    float: right;
+    padding: 10px;
+    vertical-align: center;
+}
+
+#profile {
+    border-radius: 100px;
+    width: 29px;
+    height: auto;
+}
+
+#Atsushi {
+    color: grey;
+}
+
+
+.resize{
+    width: 22px;
+    height: auto;
+}
+
+
+
+a {
+    text-decoration: none
+}
+
+.header ul a {
+    color: black
+}
+
+a:hover {
+    text-decoration: underline;   
+}
+
+.middle {
+    clear: both;
+    width: 1263px;
+    height: 231px;
+    
+}
+
+#logo {
+    width: 269px;
+    height: 95px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 123px;
+}
+    
+#search_box {
+    height: 28px;
+    width: 539px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#wrapper {
+    width: 1263px;
+    height: 1oopx;
+}
+
+.submit  {
+    display: block;
+    font-family: arial,sans-serif;
+    font-weight: bold;
+    background-color: #f8f8f8;
+    font-size: 11px;
+    padding: 3px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+.footer {
+    background: #f2f2f2;
+    bottom: 0px;
+    position:absolute;
+    bottom:0px;
+    width: 1260px;
+    height: 40px;
+}
+
+.footer a {
+      color: gray;
+}
+
+.f_inner {
+    display: inline;
+    font-size: 13px;
+    list-style-type: none;
+}
+
+#f_left {
+    float: left
+}
+
+#f_1, #f_2, #f_3  {
+    padding-right: 30px;
+
+}
+
+#f_4, #f_5, #f_6  {
+    padding-right: 30px;
+
+}
+
+#f_right {
+    float: right
+}
+
