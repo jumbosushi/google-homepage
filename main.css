@@ -77,21 +77,30 @@ a:hover {
 }
 
 #wrapper {
-    width: 1263px;
-    height: 1oopx;
-}
-
-.submit  {
-    display: block;
-    font-family: arial,sans-serif;
-    font-weight: bold;
-    background-color: #f8f8f8;
-    font-size: 11px;
-    padding: 3px;
+    width: 220px;
     margin-left: auto;
     margin-right: auto;
 }
 
+.submit  {
+    display: inline-block;
+    margin: auto;
+    float: none
+    font-family: arial,sans-serif;
+    font-weight: bold;
+    background-color: #f8f8f8;
+    font-size: 11px;
+    padding: 5px;
+    
+}
+
+#search {
+    width: 60px;
+}
+
+#lucky {
+    margin-left: 50px;
+}
 
 .footer {
     background: #f2f2f2;
